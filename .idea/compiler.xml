@@ -10,5 +10,8 @@
         <module name="SystechRetail" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="systech-retail" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
